@@ -1,0 +1,549 @@
+================================================================================
+                    ACME CORPORATION - HUMAN RESOURCES
+                         EMPLOYEE RECORDS DATABASE
+                            CONFIDENTIAL - DO NOT DISTRIBUTE
+================================================================================
+
+EMPLOYEE RECORD #1
+================================================================================
+Employee Information
+--------------------------------------------------------------------------------
+Full Name: Michael Andrew Stevens
+Employee ID: EMP-2024-10567
+Department: Engineering - Software Development
+Job Title: Senior Software Engineer
+Start Date: January 15, 2020
+Employment Status: Full-Time, Active
+
+Personal Information
+--------------------------------------------------------------------------------
+Date of Birth: August 12, 1988
+Social Security Number: 234-56-7890
+Driver's License: DL-CA-S8877665
+State: California
+
+Contact Information
+--------------------------------------------------------------------------------
+Personal Email: michael.stevens@gmail.com
+Work Email: m.stevens@acmecorp.com
+Mobile Phone: (415) 555-1234
+Home Phone: (415) 555-1235
+Work Extension: x4567
+
+Current Address: 2345 Market Street, Apt 15B, San Francisco, CA 94114
+Previous Address: 8901 Telegraph Ave, Oakland, CA 94609 (Moved: 05/2023)
+
+Emergency Contacts
+--------------------------------------------------------------------------------
+Primary: Sarah Stevens (Spouse)
+  Phone: (415) 555-1236
+  Email: sarah.stevens@email.com
+  Relationship: Wife
+
+Secondary: Robert Stevens (Father)
+  Phone: (408) 555-7788
+  Email: robert.stevens@yahoo.com
+  Relationship: Father
+
+Compensation & Benefits
+--------------------------------------------------------------------------------
+Annual Salary: $145,000
+Pay Frequency: Bi-weekly
+Direct Deposit Account: 9876543210
+Routing Number: 121000248 (Wells Fargo)
+Bank Name: Wells Fargo Bank
+
+Health Insurance
+  Provider: Blue Shield of California
+  Policy Number: POL-BSC-556677889
+  Member ID: BSC-CA-445566778
+  Group Number: ACME-2024
+  Dependent Coverage: Spouse + 2 Children
+
+401(k) Information
+  Contribution: 8% of salary
+  Account Number: 401K-2024-889900
+  Administrator: Fidelity Investments
+  Phone: (800) 555-3344
+
+Tax Information
+--------------------------------------------------------------------------------
+Federal W-4 Status: Married Filing Jointly
+State W-4 Status: Married
+Allowances: 3
+Additional Withholding: $200/paycheck
+
+Performance Reviews
+--------------------------------------------------------------------------------
+Latest Review: October 15, 2024
+Rating: Exceeds Expectations (4.5/5.0)
+Reviewer: Jennifer Martinez, Engineering Manager
+Next Review: October 15, 2025
+
+Previous Reviews:
+- October 2023: 4.2/5.0 - Meets Expectations
+- October 2022: 4.0/5.0 - Meets Expectations
+
+Background Check
+--------------------------------------------------------------------------------
+Date Performed: December 20, 2019
+Provider: Sterling Background Check
+Reference Number: SBC-2019-556677
+Result: Clear - No issues found
+Criminal History: None
+Credit Check: Performed (OK for position)
+
+EMPLOYEE RECORD #2
+================================================================================
+Employee Information
+--------------------------------------------------------------------------------
+Full Name: Jennifer Marie Rodriguez
+Employee ID: EMP-2024-10892
+Department: Human Resources
+Job Title: HR Manager
+Start Date: March 1, 2019
+Employment Status: Full-Time, Active
+
+Personal Information
+--------------------------------------------------------------------------------
+Date of Birth: May 22, 1982
+Social Security Number: 345-67-8901
+Driver's License: DL-CA-R5544332
+State: California
+Passport Number: 778899001
+
+Contact Information
+--------------------------------------------------------------------------------
+Personal Email: jennifer.rodriguez@outlook.com
+Work Email: j.rodriguez@acmecorp.com
+Mobile Phone: (650) 555-2345
+Work Extension: x2100
+
+Current Address: 1567 El Camino Real, #203, San Mateo, CA 94402
+
+Emergency Contacts
+--------------------------------------------------------------------------------
+Primary: Carlos Rodriguez (Spouse)
+  Phone: (650) 555-2346
+  Email: carlos.rodriguez@company.com
+  Relationship: Husband
+
+Secondary: Maria Garcia (Mother)
+  Phone: (408) 555-9988
+  Email: maria.garcia@email.com
+  Relationship: Mother
+
+Compensation & Benefits
+--------------------------------------------------------------------------------
+Annual Salary: $105,000
+Pay Frequency: Bi-weekly
+Direct Deposit Account: 1234567890
+Routing Number: 121000358 (Bank of America)
+
+Health Insurance
+  Provider: Kaiser Permanente
+  Policy Number: POL-KP-998877665
+  Member ID: KP-CA-334455667
+  Group Number: ACME-2024
+
+Life Insurance
+  Provider: MetLife
+  Policy Number: LIFE-2024-445566
+  Coverage Amount: $500,000
+  Beneficiary: Carlos Rodriguez (Spouse) - 100%
+
+Dental Insurance
+  Provider: Delta Dental
+  Policy Number: DENT-CA-667788
+  Member ID: DD-556677889
+
+Tax Information
+--------------------------------------------------------------------------------
+Federal W-4 Status: Married Filing Jointly
+State W-4 Status: Married
+Allowances: 2
+SSN: 345-67-8901
+
+Certifications
+--------------------------------------------------------------------------------
+SHRM-CP (Certified Professional)
+  Certification Number: SHRM-CP-445566
+  Issue Date: June 15, 2021
+  Expiration: June 15, 2027
+
+PHR (Professional in Human Resources)
+  Certification Number: PHR-778899
+  Issue Date: March 10, 2020
+  Expiration: March 10, 2026
+
+EMPLOYEE RECORD #3
+================================================================================
+Employee Information
+--------------------------------------------------------------------------------
+Full Name: David James Chen
+Employee ID: EMP-2024-11234
+Department: Finance
+Job Title: Financial Analyst
+Start Date: July 1, 2022
+Employment Status: Full-Time, Active
+
+Personal Information
+--------------------------------------------------------------------------------
+Date of Birth: November 8, 1993
+Social Security Number: 456-78-9012
+Driver's License: DL-NY-C6677889
+State: New York (relocated from)
+Current State License: DL-CA-C6677889 (California)
+
+Contact Information
+--------------------------------------------------------------------------------
+Personal Email: david.chen@gmail.com
+Work Email: d.chen@acmecorp.com
+Mobile Phone: (415) 555-3456
+Work Phone: (415) 555-3457
+Work Extension: x3200
+
+Current Address: 789 Mission Street, Unit 5F, San Francisco, CA 94103
+
+Emergency Contacts
+--------------------------------------------------------------------------------
+Primary: Lisa Chen (Sister)
+  Phone: (212) 555-8899
+  Email: lisa.chen@email.com
+  Relationship: Sister
+
+Secondary: William Chen (Father)
+  Phone: (212) 555-8800
+  Email: william.chen@business.com
+  Relationship: Father
+
+Compensation & Benefits
+--------------------------------------------------------------------------------
+Annual Salary: $95,000
+Sign-On Bonus: $10,000 (Paid 07/15/2022)
+Performance Bonus Target: 15% of salary
+Direct Deposit Account: 5566778899
+Routing Number: 121000248 (Wells Fargo)
+
+Health Insurance
+  Provider: Aetna
+  Policy Number: POL-AET-334455667
+  Member ID: AET-CA-223344556
+  Coverage: Employee Only
+
+401(k) Information
+  Contribution: 6% of salary
+  Employer Match: 50% up to 6%
+  Account: 401K-2024-556677
+  Vesting: 4 years (50% vested)
+
+Stock Options
+  Grant Date: July 1, 2022
+  Number of Options: 5,000
+  Exercise Price: $45.00
+  Vesting Schedule: 4 years, 25% per year
+  Grant Number: SO-2022-7788
+
+Tax Information
+--------------------------------------------------------------------------------
+Federal W-4 Status: Single
+State W-4 Status: Single
+Allowances: 1
+SSN: 456-78-9012
+
+Education
+--------------------------------------------------------------------------------
+Degree: MBA, Finance
+School: New York University - Stern School of Business
+Graduation: May 2021
+Student ID: NYU-STU-998877
+
+Degree: BS, Economics
+School: University of California, Berkeley
+Graduation: May 2015
+
+Background Check
+--------------------------------------------------------------------------------
+Date Performed: June 15, 2022
+Provider: HireRight
+Reference Number: HR-2022-445566
+Result: Clear
+Credit Check: Excellent (Required for finance position)
+Previous Employment Verified: Goldman Sachs (2021-2022)
+
+EMPLOYEE RECORD #4
+================================================================================
+Employee Information
+--------------------------------------------------------------------------------
+Full Name: Amanda Louise Martinez
+Employee ID: EMP-2024-11567
+Department: Marketing
+Job Title: Marketing Director
+Start Date: September 15, 2018
+Employment Status: Full-Time, Active
+
+Personal Information
+--------------------------------------------------------------------------------
+Date of Birth: April 3, 1985
+Social Security Number: 567-89-0123
+Driver's License: DL-CA-M4455332
+State: California
+Passport Number: 665544332
+
+Contact Information
+--------------------------------------------------------------------------------
+Personal Email: amanda.martinez@icloud.com
+Work Email: a.martinez@acmecorp.com
+Mobile Phone: (415) 555-4567
+Work Phone: (415) 555-4568
+Work Extension: x5100
+
+Current Address: 4567 Pacific Heights Blvd, San Francisco, CA 94109
+
+Emergency Contacts
+--------------------------------------------------------------------------------
+Primary: Thomas Martinez (Spouse)
+  Phone: (415) 555-4569
+  Email: thomas.martinez@startup.com
+  Relationship: Husband
+
+Secondary: Elizabeth Johnson (Sister)
+  Phone: (510) 555-7766
+  Email: elizabeth.johnson@email.com
+  Relationship: Sister
+
+Compensation & Benefits
+--------------------------------------------------------------------------------
+Annual Salary: $135,000
+Annual Bonus Target: 20% of salary
+Car Allowance: $800/month
+Direct Deposit Account: 7788990011
+Routing Number: 121000358 (Bank of America)
+
+Health Insurance
+  Provider: United Healthcare
+  Policy Number: POL-UHC-778899001
+  Member ID: UHC-CA-556677889
+  Coverage: Family (Spouse + 1 Child)
+  Dependent: Sophie Martinez (Daughter, DOB: 06/12/2018)
+
+Executive Benefits
+  Supplemental Life Insurance: $1,000,000
+  Long-Term Disability: 70% of salary
+  Executive Physical: Annual, covered 100%
+
+Tax Information
+--------------------------------------------------------------------------------
+Federal W-4 Status: Married Filing Jointly
+State W-4 Status: Married
+Allowances: 3
+SSN: 567-89-0123
+
+Professional Memberships
+--------------------------------------------------------------------------------
+American Marketing Association
+  Member ID: AMA-445566778
+  Expiration: December 31, 2025
+
+San Francisco Marketing Group
+  Member ID: SFMG-998877
+  Status: Board Member
+
+Performance & Compensation History
+--------------------------------------------------------------------------------
+2024 Salary: $135,000 (10% increase from 2023)
+2024 Bonus: $27,000 (20% of salary - paid March 2024)
+2023 Salary: $122,700
+2023 Bonus: $24,540
+
+Equity Awards
+--------------------------------------------------------------------------------
+Restricted Stock Units (RSUs)
+  Grant Date: January 1, 2024
+  Number of Shares: 2,000
+  Vesting: 4 years, quarterly
+  Grant ID: RSU-2024-5566
+
+Previous Grants:
+  RSU-2023-4455: 1,500 shares (75% vested)
+  RSU-2022-3344: 1,200 shares (100% vested)
+
+EMPLOYEE RECORD #5
+================================================================================
+Employee Information
+--------------------------------------------------------------------------------
+Full Name: Robert William Johnson
+Employee ID: EMP-2024-11890
+Department: Operations
+Job Title: Operations Coordinator
+Start Date: February 1, 2024
+Employment Status: Full-Time, Probationary (90-day review pending)
+
+Personal Information
+--------------------------------------------------------------------------------
+Date of Birth: September 17, 1996
+Social Security Number: 678-90-1234
+Driver's License: DL-CA-J3344556
+State: California
+
+Contact Information
+--------------------------------------------------------------------------------
+Personal Email: robert.johnson@gmail.com
+Work Email: r.johnson@acmecorp.com
+Mobile Phone: (408) 555-5678
+Work Extension: x4800
+
+Current Address: 8901 Winchester Blvd, Apt 2A, San Jose, CA 95128
+
+Emergency Contacts
+--------------------------------------------------------------------------------
+Primary: Patricia Johnson (Mother)
+  Phone: (408) 555-5679
+  Email: patricia.johnson@email.com
+  Relationship: Mother
+
+Secondary: Kevin Johnson (Brother)
+  Phone: (408) 555-5680
+  Email: kevin.johnson@tech.com
+  Relationship: Brother
+
+Compensation & Benefits
+--------------------------------------------------------------------------------
+Annual Salary: $65,000
+Pay Frequency: Bi-weekly
+Direct Deposit Account: 4455667788
+Routing Number: 121000248 (Wells Fargo)
+
+Health Insurance (Effective: May 1, 2024)
+  Provider: Blue Shield of California
+  Policy Number: POL-BSC-223344556
+  Member ID: BSC-CA-112233445
+  Coverage: Employee Only
+
+401(k) Eligibility: June 1, 2024 (after 120 days)
+
+Tax Information
+--------------------------------------------------------------------------------
+Federal W-4 Status: Single
+State W-4 Status: Single
+Allowances: 1
+SSN: 678-90-1234
+
+Background Check
+--------------------------------------------------------------------------------
+Date Performed: January 15, 2024
+Provider: Checkr
+Reference Number: CHK-2024-778899
+Result: Clear
+Education Verified: San Jose State University, BS Business (2019)
+Previous Employment: Verified (Target Corporation, 2020-2023)
+
+Onboarding Status
+--------------------------------------------------------------------------------
+I-9 Verification: Completed 02/01/2024
+  Document Type: US Passport #889900112
+  Expiration: 03/15/2034
+
+Employee Handbook: Acknowledged 02/01/2024
+Confidentiality Agreement: Signed 02/01/2024
+Code of Conduct: Acknowledged 02/01/2024
+
+Training Completed:
+- IT Security Awareness: 02/05/2024
+- HIPAA Compliance: 02/08/2024
+- Workplace Safety: 02/12/2024
+- Sexual Harassment Prevention: 02/15/2024
+
+90-Day Review Scheduled: May 1, 2024
+Reviewer: Operations Manager - Michael Davis
+
+INTERN RECORD
+================================================================================
+Employee Information
+--------------------------------------------------------------------------------
+Full Name: Emily Grace Washington
+Employee ID: INT-2024-5678
+Department: Marketing
+Job Title: Marketing Intern (Summer)
+Start Date: June 1, 2024
+End Date: August 31, 2024
+Employment Status: Temporary, Part-Time (20 hrs/week)
+
+Personal Information
+--------------------------------------------------------------------------------
+Date of Birth: March 25, 2003
+Social Security Number: 789-01-2345
+Driver's License: DL-CA-W2233445
+State: California
+
+Contact Information
+--------------------------------------------------------------------------------
+Personal Email: emily.washington@stanford.edu
+School Email: ewashing@stanford.edu
+Work Email: e.washington@acmecorp.com
+Mobile Phone: (650) 555-6789
+
+Current Address (School): 
+Stanford University, Roble Hall, Room 312
+450 Serra Mall, Stanford, CA 94305
+
+Permanent Address:
+5678 Riverside Drive, Sacramento, CA 95831
+
+Emergency Contacts
+--------------------------------------------------------------------------------
+Primary: Michelle Washington (Mother)
+  Phone: (916) 555-8899
+  Email: michelle.washington@state.gov
+  Relationship: Mother
+
+Secondary: Gregory Washington (Father)
+  Phone: (916) 555-8898
+  Email: gregory.washington@company.com
+  Relationship: Father
+
+Compensation
+--------------------------------------------------------------------------------
+Hourly Rate: $25.00/hour
+Pay Frequency: Bi-weekly
+Direct Deposit Account: 9988776655
+Routing Number: 121000358 (Bank of America)
+Bank: Parent/Guardian Joint Account
+
+Tax Information
+--------------------------------------------------------------------------------
+Federal W-4 Status: Single
+State W-4 Status: Single
+Allowances: 0
+SSN: 789-01-2345
+Student Status: Full-Time (Tax Credit Eligible)
+
+Education Information
+--------------------------------------------------------------------------------
+Current School: Stanford University
+Major: Marketing & Communications
+Expected Graduation: June 2025
+GPA: 3.85
+Student ID: STAN-STU-445566
+
+Faculty Advisor: Professor Sarah Martinez
+Advisor Email: smartinez@stanford.edu
+Advisor Phone: (650) 555-7700
+
+Internship Supervisor: Amanda Martinez (Marketing Director)
+Academic Credit: 3 units (COMM 199)
+
+================================================================================
+                    END OF EMPLOYEE RECORDS
+         This document contains Personally Identifiable Information (PII)
+              Handle in accordance with company privacy policies
+================================================================================
+
+CONFIDENTIALITY NOTICE:
+This document contains confidential employee information protected under 
+federal and state privacy laws. Unauthorized disclosure, copying, or 
+distribution may result in disciplinary action up to and including 
+termination, and may subject the individual to civil and criminal penalties.
+
+All SSNs, bank account numbers, and other sensitive data must be protected
+in accordance with ACME Corporation Information Security Policy v2024.3.

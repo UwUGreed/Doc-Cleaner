@@ -1,0 +1,323 @@
+================================================================================
+                    MEDICAL CENTER PATIENT INTAKE FORM
+                          CONFIDENTIAL INFORMATION
+================================================================================
+
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Jennifer Marie Thompson
+Date of Birth: March 15, 1985 (Age: 41)
+Social Security Number: 456-78-9012
+Medical Record Number: MRN-2024-89765
+Patient ID: PT-445566
+
+CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Primary Phone: (312) 555-7890
+Secondary Phone: 312-555-7891
+Email Address: jennifer.thompson@email.com
+Current Address: 1542 Maple Avenue, Apartment 3B, Chicago, IL 60614
+
+INSURANCE INFORMATION
+--------------------------------------------------------------------------------
+Insurance Provider: Blue Cross Blue Shield
+Policy Number: POL-BC-887654321
+Member ID: BCBS-IL-123456789
+Group Number: GRP-775544
+Insurance Phone: (800) 555-2468
+
+PAYMENT INFORMATION
+--------------------------------------------------------------------------------
+Credit Card (on file): 5424-1234-5678-9012 (Visa)
+Expiration: 08/2027
+CVV: 456
+Bank Account: 9876543210
+Routing Number: 071000013
+IBAN (International): GB82 WEST 1234 5698 7654 32
+
+IDENTIFICATION
+--------------------------------------------------------------------------------
+Driver's License: DL-IL-J4829405
+State: Illinois
+Passport Number: 456789012
+Voter Registration: VR-IL-334455
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Robert Michael Thompson
+Relationship: Spouse
+Phone: (312) 555-7892
+Email: robert.thompson@email.com
+Address: Same as patient
+
+SECONDARY EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Sarah Elizabeth Johnson
+Relationship: Sister
+Phone: (847) 555-3344
+Email: sarah.johnson@gmail.com
+Address: 789 Oak Street, Evanston, IL 60201
+
+MEDICAL HISTORY
+--------------------------------------------------------------------------------
+Primary Care Physician: Dr. Amanda Rodriguez, MD
+Physician Phone: (312) 555-4001
+Physician Email: a.rodriguez@chicagomedical.com
+Clinic Address: 2500 N. Halsted Street, Chicago, IL 60614
+
+Previous Hospitalizations:
+- Mercy Hospital, Chicago - June 15, 2022 - Case #: MH-2022-56789
+- Northwestern Memorial - September 8, 2020 - MRN: NW-20-445566
+
+Current Medications:
+1. Lisinopril 10mg - Prescribed by Dr. Rodriguez on 01/15/2024
+2. Metformin 500mg - Prescribed by Dr. Chen on 03/22/2024
+3. Levothyroxine 75mcg - Prescribed by Dr. Patel on 11/08/2023
+
+Known Allergies:
+- Penicillin (severe reaction documented 05/12/2018)
+- Sulfa drugs (moderate reaction - Case ID: ALG-2018-334)
+
+RECENT VISITS
+--------------------------------------------------------------------------------
+Visit Date: December 8, 2024
+Chief Complaint: Annual wellness examination
+Treating Physician: Dr. Amanda Rodriguez
+Visit ID: V-2024-12-08-0089
+
+Visit Date: September 15, 2024
+Chief Complaint: Follow-up for hypertension
+Treating Physician: Dr. Michael Chen, MD
+Phone: (312) 555-4002
+Visit ID: V-2024-09-15-0067
+
+CLINICAL NOTES
+--------------------------------------------------------------------------------
+Patient Jennifer Thompson (DOB: 03/15/1985, SSN: 456-78-9012) presented for 
+routine annual physical. Height: 5'6", Weight: 145 lbs, BP: 128/82.
+
+Patient reports compliance with current medication regimen. Last A1C test 
+(performed 11/30/2024): 6.2%. Patient's email (jennifer.thompson@email.com) 
+and phone (312-555-7890) verified as current.
+
+Insurance Policy POL-BC-887654321 active and verified through BCBS Member 
+Services at (800) 555-2468. Copay of $25 paid via credit card ending in 9012.
+
+Lab work ordered (LabCorp Authorization: LC-2024-778899):
+- Comprehensive Metabolic Panel
+- Lipid Panel  
+- CBC with Differential
+- TSH
+
+Follow-up appointment scheduled for March 15, 2025 at 2:30 PM.
+Patient can be reached at jennifer.thompson@email.com or (312) 555-7890.
+
+Home address confirmed: 1542 Maple Avenue, Apt 3B, Chicago, IL 60614
+
+Driver's License DL-IL-J4829405 scanned and verified for identity confirmation.
+
+ADDITIONAL PATIENT RECORDS
+================================================================================
+
+PATIENT #2 - NEW INTAKE
+--------------------------------------------------------------------------------
+Full Name: Carlos Miguel Rodriguez
+Date of Birth: July 22, 1972
+SSN: 567-89-0123
+MRN: MR-2024-334455
+Patient ID: PT-998877
+
+Contact:
+Phone: (773) 555-2345
+Email: carlos.rodriguez@outlook.com
+Address: 4567 North Avenue, Unit 12, Chicago, IL 60625
+
+Insurance: 
+Policy: POL-AETNA-556677889
+Member ID: AET-IL-998877665
+Phone: (888) 555-3344
+
+Payment:
+Credit Card: 4916-8765-4321-0987 (Mastercard)
+Bank: 1234509876 / Routing: 071000013
+
+Identification:
+Driver's License: DL-IL-R8877665
+Passport: 887654321
+
+Emergency Contact: Maria Elena Rodriguez (Wife)
+Phone: (773) 555-2346
+Email: maria.rodriguez@yahoo.com
+
+Primary Care: Dr. Steven Park, MD
+Phone: (773) 555-8800
+Email: s.park@northsidemedical.com
+
+Recent Visit: November 20, 2024
+Chief Complaint: Diabetes management follow-up
+A1C: 7.1% (Test Date: 11/15/2024)
+
+PATIENT #3 - PEDIATRIC INTAKE
+--------------------------------------------------------------------------------
+Full Name: Emily Grace Anderson
+Date of Birth: April 8, 2015 (Age: 10)
+SSN: 678-90-1234
+MRN: MR-PED-2024-112233
+Patient ID: PT-PED-556677
+
+Parent/Guardian: Michelle Lynn Anderson
+Guardian SSN: 789-01-2345
+Guardian DOB: September 30, 1988
+
+Contact:
+Parent Phone: (847) 555-9876
+Parent Email: michelle.anderson@gmail.com
+Address: 8901 Elm Street, Skokie, IL 60076
+
+Insurance:
+Policy: POL-UNITED-445566778
+Member ID: UHC-IL-223344556
+Subscriber: Michelle Anderson
+
+Payment:
+Credit Card: 5555-4444-3333-2222 (Amex)
+Guardian Bank: 5566778899 / Routing: 071000013
+
+Emergency Contacts:
+1. Father: David James Anderson
+   Phone: (847) 555-9877
+   Email: david.anderson@company.com
+   
+2. Grandmother: Patricia Ann Wilson
+   Phone: (847) 555-6543
+   Email: patricia.wilson@email.com
+   Address: 1234 Cedar Lane, Wilmette, IL 60091
+
+Pediatrician: Dr. Lisa Chen, MD
+Phone: (847) 555-7700
+Clinic: Skokie Pediatric Associates
+Address: 5555 Skokie Boulevard, Skokie, IL 60077
+
+School Information:
+Name: Lincoln Elementary School
+Address: 2200 Main Street, Skokie, IL 60076
+School Nurse: Nancy Martinez, RN
+Phone: (847) 555-8000
+
+Recent Immunizations:
+- Tdap Booster: 08/15/2024 - Lot #: TD-2024-8877
+- Flu Vaccine: 10/01/2024 - Lot #: FLU-2024-9988
+- HPV (Dose 1): 05/12/2024 - Lot #: HPV-2024-5544
+
+PATIENT #4 - URGENT CARE VISIT
+--------------------------------------------------------------------------------
+Full Name: James Alexander Martinez
+Date of Birth: December 3, 1995 (Age: 30)
+SSN: 890-12-3456
+MRN: MR-UC-2024-889900
+Visit Date: December 8, 2024, 3:45 PM
+
+Contact:
+Phone: (312) 555-4455
+Email: james.martinez@techcompany.com
+Work Email: j.martinez@acmecorp.com
+Address: 3344 West Division Street, Chicago, IL 60622
+
+Insurance:
+Policy: POL-CIGNA-998877665
+Member ID: CIGNA-IL-667788990
+Phone: (800) 555-7788
+
+Payment:
+Credit Card: 6011-2345-6789-0123 (Discover)
+Debit Card: 4532-9876-5432-1098
+
+Identification:
+Driver's License: DL-IL-M6677889
+Passport: 998877665
+Work ID: ACME-EMP-55443
+
+Chief Complaint: Laceration to left hand requiring sutures
+
+Injury Details:
+Date of Injury: December 8, 2024, 2:15 PM
+Location: Kitchen accident while preparing food
+Wound: 3 cm laceration on left palm
+
+Treatment:
+- Wound irrigated and cleaned
+- 6 sutures placed by Dr. Robert Kim, MD
+- Tetanus booster administered (Lot #: TET-2024-7788)
+- Prescribed: Amoxicillin 500mg (Rx #: RX-2024-556677)
+- Follow-up: December 15, 2024 for suture removal
+
+Pharmacy:
+Walgreens Pharmacy #8877
+Address: 3000 N. Ashland Avenue, Chicago, IL 60657
+Phone: (773) 555-9900
+Pharmacist: Lisa Nguyen, PharmD
+
+Work Note Provided:
+Employee ID: ACME-EMP-55443
+Return to Work: December 10, 2024 (light duty)
+Restrictions: No heavy lifting, keep wound dry
+
+PATIENT #5 - SPECIALIST REFERRAL
+--------------------------------------------------------------------------------
+Full Name: Patricia Ann Wilson
+Date of Birth: February 28, 1954 (Age: 71)
+SSN: 901-23-4567
+MRN: MR-2024-667788
+Medicare Number: 1AB2-CD3-EF45
+
+Contact:
+Phone: (708) 555-7788
+Cell: (708) 555-7789
+Email: patricia.wilson@senior.net
+Address: 6677 South Oak Park Avenue, Oak Park, IL 60302
+
+Insurance:
+Medicare Part A & B: 1AB2-CD3-EF45
+Supplemental: AARP-UNITED-778899
+Policy: POL-AARP-334455667
+
+Payment:
+Bank Account: 3344556677 / Routing: 071000013
+Credit Card: 3782-822463-10005 (Amex)
+
+Identification:
+Driver's License: DL-IL-W5544332
+State ID (non-driver): ID-IL-W5544332
+
+Primary Care: Dr. Margaret Foster, MD
+Phone: (708) 555-6600
+Email: m.foster@oakparkmedical.com
+
+Cardiologist: Dr. Steven Chang, MD
+Phone: (312) 555-3300
+Email: s.chang@heartinstitute.com
+Address: 1100 N. Lake Shore Drive, Chicago, IL 60611
+
+Recent Cardiac Workup:
+- EKG: 11/28/2024 - Normal sinus rhythm
+- Echocardiogram: 11/30/2024 - EF 55%
+- Stress Test: 12/01/2024 - Negative for ischemia
+- Authorization: CARD-2024-998877
+
+Medications (Cardiac):
+1. Metoprolol 50mg BID - Prescribed 09/15/2024
+2. Atorvastatin 40mg QHS - Prescribed 09/15/2024  
+3. Aspirin 81mg daily - OTC
+
+Next Appointment: Dr. Chang, January 15, 2025, 10:00 AM
+Authorization Number: AUTH-2025-112233
+
+Emergency Contact: Son - Michael Wilson
+Phone: (708) 555-4433
+Email: michael.wilson@company.com
+
+================================================================================
+                         END OF PATIENT RECORDS
+           This document contains Protected Health Information (PHI)
+         Handle in accordance with HIPAA Privacy and Security Rules
+================================================================================
