@@ -1,0 +1,87 @@
+===========================================
+PATIENT MEDICAL RECORD - CONFIDENTIAL
+===========================================
+
+Patient Information:
+-------------------------------------------
+Name: Sarah Elizabeth Johnson
+Date of Birth: 03/15/1985
+SSN: 456-78-9012
+Driver's License: DL-J4829405
+
+Contact Details:
+-------------------------------------------
+Email: sarah.johnson@email.com
+Primary Phone: (312) 555-7890
+Secondary Phone: 312-555-7891
+Address: 742 Evergreen Terrace, Springfield, IL 62704
+
+Medical Information:
+-------------------------------------------
+Medical Record Number: MRN-87654321
+Health Plan ID: HP-BLU987654321
+Insurance Policy: POL-12345678
+Primary Care Provider: Dr. Michael Chen
+
+Financial Information:
+-------------------------------------------
+Credit Card (on file): 5424-1234-5678-9012
+Bank Account: 9876543210 (Routing: 123456789)
+IBAN: GB82 WEST 1234 5698 7654 32
+
+Medical History:
+-------------------------------------------
+Patient Sarah Johnson (DOB: 03/15/1985) presented on 12/08/2024 
+with complaints of persistent headaches. Medical Record Number 
+MRN-87654321 shows previous visits on 06/12/2024 and 09/03/2024.
+
+Current medications include prescriptions filled on 11/15/2024.
+Health Plan HP-BLU987654321 approved referral to Dr. Amanda Rodriguez
+at Chicago Medical Center, 1500 N Halsted St, Chicago, IL 60642.
+
+Contact via email (sarah.johnson@email.com) or phone (312) 555-7890
+if additional information needed.
+
+Emergency Contact:
+-------------------------------------------
+Name: Robert Johnson
+Relationship: Spouse
+Phone: (312) 555-7892
+Email: robert.j@email.com
+Address: Same as patient
+
+Administrative Notes:
+-------------------------------------------
+Processed by: Jennifer Martinez
+Date: 12/08/2024
+Case ID: CASE-2024-12089
+Insurance Authorization: AUTH-98765
+Passport (for international referral): 456789012
+
+===========================================
+END OF RECORD
+===========================================
+
+Additional Patient Records:
+
+PATIENT 2:
+Name: Marcus Anthony Williams
+SSN: 789-01-2345
+DOB: 07/22/1978
+MRN: MR-55443322
+Phone: 555-234-5678
+Email: m.williams@email.com
+Address: 890 Oak Avenue, Portland, OR 97201
+Insurance: POL-55667788
+Credit Card: 4916-3456-7890-1234
+
+PATIENT 3:
+Name: Elena Marie Rodriguez
+SSN: 234-56-7890
+DOB: 11/30/1992
+MRN: MEDICAL-ID-778899
+Phone: (503) 555-9012
+Email: elena.rodriguez@healthcare.com
+Health Plan: HEALTH-PLAN-XYZ789
+Driver's License: DL-OR9876543
+Bank Account: IBAN GB29 NWBK 6016 1331 9268 19
